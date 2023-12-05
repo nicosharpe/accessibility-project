@@ -16,7 +16,7 @@ I also learned how to add alt text and how to organise and establish heirarchy i
 N/A
 
 # Usage
-To view the accesibility aspects of this website simply open the Chrome DevTools by pressing Command+Option+I (windows), or right clicking the webpage and clicking Inspect. A console panel will open up to the right or below the webpage in the browser and you will see the organised html following the semantics of <Header>,<Body>, <Section>, <Article> and <Aside>. 
+To view the accesibility aspects of this website simply open the Chrome DevTools by pressing Command+Option+I (windows), or right clicking the webpage and clicking Inspect. A console panel will open up to the right or below the webpage in the browser and you will see the organised html following the semantics of Header ,Body, Section, Article and Aside. 
 
 You can also simply right click on any element of the website you would like to see the alt text and click Inspect to be able to view that specific element right away without having to dig through the html.
 
