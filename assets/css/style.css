@@ -68,7 +68,7 @@ p {
 }
 
 
-/* Content/Section Styling */
+/* Article Styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -110,10 +110,6 @@ p {
 .online-reputation-management img {
     max-height: 200px;
 }
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
@@ -130,11 +126,17 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+
+/* Article Image positioning */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 /* Side Bar Styling */
 .benefits {
