@@ -1,3 +1,5 @@
+<a href="https://nicosharpe.github.io/accessibility-project/"></a>
+
 # accessibility-project
 
 This is a website that has been made accessible to those that use screenreaders.
@@ -11,6 +13,8 @@ The HTML follows a logical structure independent of styling and positioning, hea
 In this project I learned about the importance of ARIA, I only needed to use it once in this project though, for the "hero" image to allow screenreaders to read the alt text since it is not just a regular image that we can apply the alt property to, it is a background image on the pages hero.
 
 I also learned how to add alt text and how to organise and establish heirarchy in both HTML and CSS files.
+
+<img src="assets\images\Screenshot 2023-12-11 120721.png"></img>
 
 # Installation
 N/A
