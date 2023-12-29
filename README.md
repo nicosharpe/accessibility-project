@@ -1,5 +1,3 @@
-<a href="https://nicosharpe.github.io/accessibility-project/"></a>
-
 # accessibility-project
 
 This is a website that has been made accessible to those that use screenreaders.
