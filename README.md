@@ -1,4 +1,4 @@
-<a href="https://nicosharpe.github.io/accessibility-project/"></a>
+https://nicosharpe.github.io/accessibility-project/
 
 # accessibility-project
 
